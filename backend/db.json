@@ -1,0 +1,38 @@
+{
+  "casa": [
+    {
+      "nomeCasa": "Rastro do cowboy",
+      "enderecoCasa": "Rodovia Piratininga Bauru",
+      "qtddPessoas": "50",
+      "id": 1
+    }
+  ],
+  "cadastro": [
+    {
+      "email": "Amanda.santos44@senaisp.edu.br",
+      "cpf": "aaaaaa",
+      "nome": "aaa adasdad",
+      "dataNasc": "1111-01-18",
+      "telefone": 12121,
+      "id": 1
+    },
+    {
+      "email": "joao@senai.sp.gov.br",
+      "cpf": "12345645455",
+      "nome": "joao Silva",
+      "dataNasc": "1990-12-23",
+      "telefone": "123456444",
+      "id": 2
+    },
+    {
+      "email": "joao@senai.sp.gov.br",
+      "cpf": "12345645455",
+      "nome": "joao Silva",
+      "dataNasc": "1990-12-23",
+      "telefone": "123456444",
+      "id": 3
+    }
+  ],
+  "compra": [],
+  "evento": []
+}
